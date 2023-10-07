@@ -1,0 +1,14 @@
+D001 ,Tra Chanh ,10000 ,Con
+D002 ,Tra Dao ,10000 ,Con
+D003 ,Nuoc Loc ,12000 ,Con
+D004 ,Bun Cha ,23000 ,Con
+F001 ,Bun Dau ,29000 ,Con
+F002 ,Bun Cha Ha Noi ,35000 ,Con
+F003 ,Bun Thit Nuong ,30000 ,Con
+F004 ,An Vat ,45000 ,Con
+
+
+
+
+
+
